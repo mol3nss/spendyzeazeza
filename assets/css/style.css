@@ -171,6 +171,8 @@ body {
     z-index: 9999;
 }
 
+/* Item card styling */
+
 .items {
     display: grid;
     margin-top: 10px;
