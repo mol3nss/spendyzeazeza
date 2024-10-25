@@ -1,7 +1,7 @@
 // Starting money value
 let totalMoney = 100000000000;
 
-// Item data
+// Items data
 const items = [
     { name: 'Big Mac', cost: 2, imgSrc: './img/items-pics/big-mac.jpg' },
     { name: 'Flip Flops', cost: 3, imgSrc: './img/items-pics/flip-flops.jpg' },
