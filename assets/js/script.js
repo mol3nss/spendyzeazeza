@@ -1,4 +1,4 @@
-// Item data
+// Items data
 const items = [
     { name: 'Spend bill gate\'s money', linkItem: './assets/Pages/SpendBillGatesMoney/spend-bill-gates-money.html', imgSrc: './assets/img/items-pics/spend.svg' },
 ];
